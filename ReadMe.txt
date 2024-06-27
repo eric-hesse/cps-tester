@@ -1,0 +1,1 @@
+Leider habe ich das mit dem relativen Pfad nicht hinbekommen, daher wird das Bild von der Maus nur angezeigt, wenn Sie den absoluten Pfad des "Maus.png" in den Code setzen (Zeile 110).
